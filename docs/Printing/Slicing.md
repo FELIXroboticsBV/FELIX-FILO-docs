@@ -36,3 +36,59 @@ To do this you have to switch a mode in which the application is currently in. C
   
 <figcaption>Preview mode is located on the top menu in the middle.</figcaption>
 </figure>
+
+In preview mode, the model remains present but is rendered as a set of lines which match of where the printer will go.
+
+It is possible that you will see some foreign object appear on your model. This is nothing to wary about, this is a supporting structure which ensures that your 3D print does not collapse or brake. After th print is done the supporting structures are designed to be easily removable.
+
+### Using the preiview
+
+3D printers used for printing models / shapes operate on layers. Printer will not start to work on the layer until it is done with the previous. This can be visualized on the right slider of the preview mode. You can adjust it up or down depending how many layers shoudl be visible at the time.
+
+!!! note
+
+    Unlike in application printer always starts is job at the layer 0 and moves up in the layer stack.
+
+<figure markdown="span">
+  ![Welcome pages](../Images/printing/layer-preview.gif){ width="600" }
+  
+<figcaption>Using slider on the right you can examine separate layers. </figcaption>
+</figure>
+
+You can also preview how the nozzle of the printer will move on this layer. This can be done by pressing with **left button** onto the little play button on the botton of the screen.
+
+This will show you virtual nozzle which moves "deoposits" material. This way you can double check integrity of your prints if you are`t quite sure why is it failing.
+
+<figure markdown="span">
+  ![Welcome pages](../Images/printing/print-preview.gif){ width="600" }
+  
+<figcaption>Slider on the bottom represents how much work does printer still has to do before the selected layer is finished </figcaption>
+</figure>
+
+??? question "My model is falling through the build plate / floating above it"
+
+    Use the **Drop to Buildplate** option (right-click the model → *Drop to Buildplate*) to automatically snap it flush with the plate.
+
+??? question "My print has poor first layer adhesion"
+
+    Try enabling a **Skirt** or **Brim** under *Build Plate Adhesion* settings. A Brim adds extra surface area around the base of your model, helping it stick better.
+
+??? question "My model is too large for the build volume"
+
+    Use the **Scale** tool (`S`) to resize your model, or right-click it and select *Scale to Max* if you want it to automatically fit the build plate.
+
+??? question "I want to print multiple copies of the same model"
+
+    Right-click the model and select **Multiply Model**, then enter the number of copies you want. FELIX-FILO will automatically arrange them on the build plate.
+
+??? question "My overhangs are drooping or sagging"
+
+    Enable **Support Structures** under the *Support* settings. You can also adjust the *Support Overhang Angle* to control when supports are generated.
+
+??? question "I accidentally deleted a model from the build plate"
+
+    Use `Ctrl` + `Z` to undo the deletion, just like any other action in FELIX-FILO.
+
+??? question "My model isn't rotated the way I want"
+
+    Use the **Rotate** tool (`R`) to manually adjust orientation, or right-click the model and choose *Reset Rotation* to return it to its default orientation.
