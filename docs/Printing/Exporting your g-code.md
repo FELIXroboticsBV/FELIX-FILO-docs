@@ -16,26 +16,30 @@ When exporting to the disk, application will open file browser native to your op
 <figcaption>Selecting a folder where the applicaiton will export hte gcode. G-code files are saved with .gcode extension <figcaption>
 </figure>
 
-??? question "Kan ik G-code direct opslaan op een SD-kaart of USB-stick?"
+??? question "How do I export my sliced model as G-code?"
 
-    Ja. Plaats uw SD-kaart of USB-stick, gebruik vervolgens **Save to Disk** en selecteer de verwisselbare schijf als doelmap.
+    Once slicing is complete, click the **Save to Disk** button (or **File → Export**) in the bottom-right corner, choose your destination, and save the file with a `.gcode` extension.
 
-??? question "Mijn printer is via USB aangesloten — kan ik printen zonder eerst G-code te exporteren?"
+??? question "Can I save G-code directly to an SD card or USB drive?"
 
-    Als uw printer USB-printen ondersteunt, kunt u op **Print via USB** klikken in plaats van te exporteren. Hierdoor wordt de G-code rechtstreeks naar de printer gestreamd zonder een bestand op te slaan.
+    Yes. Insert your SD card or USB drive, then use **Save to Disk** and select the removable drive as the destination folder.
 
-??? question "Hoe controleer ik de geschatte printtijd en het materiaalverbruik voordat ik exporteer?"
+??? question "My printer is connected via USB — can I print without exporting G-code first?"
 
-    Deze informatie wordt weergegeven in het paneel rechtsonder na het slicen, direct boven de knop **Save to Disk**. Het toont de geschatte printtijd en het filamentverbruik, zowel in lengte als in gewicht.
+    If your printer supports USB printing, you can click **Print via USB** instead of exporting. This streams the G-code directly to the printer without saving a file.
 
-??? question "Kan ik G-code exporteren voor een printer die niet op mijn computer is aangesloten?"
+??? question "How do I check the estimated print time and material usage before exporting?"
 
-    Ja. Zolang het juiste printerprofiel in Cura is geselecteerd, kunt u het G-code-bestand exporteren en handmatig via een SD-kaart of USB-stick naar de printer overzetten.
+    This information is displayed in the bottom-right panel after slicing, right above the **Save to Disk** button. It shows estimated print time and filament usage in both length and weight.
 
-??? question "Waarom kan ik de knop Save to Disk niet vinden?"
+??? question "Can I export G-code for a printer that isn't connected to my computer?"
 
-    Zorg ervoor dat uw model eerst is gesliced (klik op **Slice**). De knop **Save to Disk** verschijnt pas nadat het slicen is voltooid.
+    Yes. As long as the correct printer profile is selected in Cura, you can export the G-code file and transfer it manually via SD card or USB drive to the printer.
 
-??? question "Kan ik het geëxporteerde G-code-bestand hernoemen?"
+??? question "Why can't I find the Save to Disk button?"
 
-    Ja. Wanneer het opslagvenster verschijnt na het klikken op **Save to Disk**, kunt u de bestandsnaam bewerken voordat u de exportlocatie bevestigt.
+    Make sure your model has been sliced first (click **Slice**). The **Save to Disk** button only appears after slicing is complete.
+
+??? question "Can I rename the exported G-code file?"
+
+    Yes. When the save dialog opens after clicking **Save to Disk**, you can edit the file name before confirming the export location.
