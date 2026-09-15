@@ -81,6 +81,8 @@ This should be `3344` but check it on the Network tab of your printer GUI.
 
 Leave it at its defaulat.
 
+---
+
 **Show security settings**
 
 We don`t need that.
@@ -143,3 +145,56 @@ For convenience use the little blue button right of the API key to copy it to yo
 Now you can come back and paste the API key you have just obtained into the input field labeled `API Key`.
 
 Once the API key is there `Connect to printer` button should not longer be grayed out and you can click it. If all went well, on the bottom of the screen you should see pop-up saying the connection was established.
+
+<figure markdown="span">
+  ![Welkomstpagina's](../Images/printing/connections/connected.gif){ width="900" }
+<figcaption>Establish connection by pressing connect  <figcaption>
+</figure>
+
+After this step you can close both pop-ups and continue with your work.
+
+To see if a printer is connected at any time you can check the printer status in the top left corner. If printer is connected you can see a little blue circle next to the icon of the printer.
+
+<figure markdown="span">
+  ![Welkomstpagina's](../Images/printing/connections/printer-status.png){ width="700" }
+</figure>
+
+---
+
+### FAQ
+
+??? question "I don't see the 'Connect Repetier' option in the printer settings"
+
+    This option only appears on the printer that is currently set as primary — the one shown on the top left of the viewport menu, right next to the small folder button. Make sure the correct printer is selected as primary first. If it still doesn't show up, this could be an uncommon issue — send a bug report through the menu in the top right corner of the application.
+
+??? question "I can't connect to my printer even though I filled in the IP address and port"
+
+    Double-check that both your computer and the printer are connected to the **same network** (same WiFi/router). Also verify the IP address and port number match exactly what's shown on your printer's Network tab. If everything matches and it still fails, this may not be a common issue — please send a bug report via the top right menu.
+
+??? question "Clicking 'Get printers' does nothing"
+
+    Wait a couple of seconds and press it again — sometimes the server takes a moment to respond. If repeated attempts don't return any printers, this is likely not a common issue, so send a bug report through the top right menu of the application.
+
+??? question "No printer name appears in the combo box after searching"
+
+    This usually means the connection details (IP, port) are incorrect, or the printer isn't reachable on the network. Re-check the details on your printer's Network tab. If the details are correct and the printer still doesn't appear, report this as a bug through the top right menu.
+
+??? question "The 'Connect to printer' button stays grayed out"
+
+    This means the API key field is empty. Make sure you've copied the API key from the Repetier server's Global Settings under **Connectivity** and pasted it into the API Key field. If the button remains grayed out even after pasting a valid key, this is likely not a common issue — please send a bug report via the top right menu.
+
+??? question "I don't see a confirmation pop-up after clicking Connect to printer"
+
+    Normally a pop-up appears at the bottom of the screen confirming the connection. If nothing appears, wait a few seconds and check the printer status icon in the top left corner. If there's no blue circle next to the printer icon and no error either, this is uncommon — send a bug report through the top right menu.
+
+??? question "The printer status icon doesn't show a blue circle even though I completed all the steps"
+
+    A blue circle next to the printer icon means it's connected. If it's missing after following every step correctly, try repeating the connection process from **Manage Printers**. If it still doesn't work, this is likely not a common issue — send a bug report via the top right menu.
+
+??? question "I already have an API key filled in, but I never entered one myself"
+
+    This is expected — the application remembers previously used API keys. Follow the same steps as usual to retrieve and re-enter the correct key regardless. If this causes unexpected behavior, report it as a bug through the top right menu.
+
+??? question "What should I do if none of the troubleshooting steps solve my connection issue?"
+
+    If your issue isn't covered by common fixes, please send a bug report through the menu in the top right corner of the application so it can be investigated further.
