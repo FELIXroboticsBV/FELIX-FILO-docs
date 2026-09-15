@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/"/>
+    </url>
+    <url>
+        <loc>NoneGetting%20Started/Getting%20started/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneGetting%20Started/Getting%20started/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/Getting%20Started/Getting%20started/"/>
+    </url>
+    <url>
+        <loc>NoneInstalation/Instalation/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneInstalation/Instalation/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/Instalation/Instalation/"/>
+    </url>
+    <url>
+        <loc>Nonenl/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonenl/Getting%20Started/Getting%20started/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/Getting%20Started/Getting%20started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneGetting%20Started/Getting%20started/"/>
+    </url>
+    <url>
+        <loc>Nonenl/Instalation/Instalation/</loc>
+        <lastmod>2026-09-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/Instalation/Instalation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneInstalation/Instalation/"/>
+    </url>
+</urlset>
