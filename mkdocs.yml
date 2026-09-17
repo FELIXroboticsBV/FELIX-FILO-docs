@@ -7,6 +7,7 @@ repo_name: "FELIX-FILO-docs"
 use_directory_urls: true
 
 plugins:
+  - search
   - i18n:
       docs_structure: suffix # or "folder"
       languages:
