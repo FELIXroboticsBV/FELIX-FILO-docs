@@ -1,8 +1,7 @@
 site_name: FELIX-Filo docs
 site_description: "User manual for the FELIX FIlo application"
 site_author: "FELIX Robotics BV"
-site_url:
-docs_dir: docs
+site_url: https://felixroboticsbv.github.io/FELIX-FILO-docs/
 repo_name: "FELIX-FILO-docs"
 use_directory_urls: true
 
