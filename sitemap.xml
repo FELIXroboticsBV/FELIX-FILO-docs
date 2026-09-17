@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Adding%20more%20printers/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Adding%20more%20printers/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Adding%20more%20printers/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Getting%20started/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Getting%20started/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Getting%20started/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Instalation/Instalation/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Instalation/Instalation/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Instalation/Instalation/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Exporting%20your%20g-code/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Exporting%20your%20g-code/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Exporting%20your%20g-code/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/External%20connection%20to%20the%20printer/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/External%20connection%20to%20the%20printer/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/External%20connection%20to%20the%20printer/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Positioning%20your%20model/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Positioning%20your%20model/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Positioning%20your%20model/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Printing%20from%20the%20application/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Printing%20from%20the%20application/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Printing%20from%20the%20application/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Slicing/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Slicing/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Slicing/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Adding%20more%20printers/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Adding%20more%20printers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Adding%20more%20printers/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Getting%20started/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Getting%20Started/Getting%20started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Getting%20Started/Getting%20started/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Instalation/Instalation/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Instalation/Instalation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Instalation/Instalation/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Exporting%20your%20g-code/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Exporting%20your%20g-code/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Exporting%20your%20g-code/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/External%20connection%20to%20the%20printer/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/External%20connection%20to%20the%20printer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/External%20connection%20to%20the%20printer/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Positioning%20your%20model/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Positioning%20your%20model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Positioning%20your%20model/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Printing%20from%20the%20application/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Printing%20from%20the%20application/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Printing%20from%20the%20application/"/>
+    </url>
+    <url>
+        <loc>https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Slicing/</loc>
+        <lastmod>2026-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/nl/Printing/Slicing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://felixroboticsbv.github.io/FELIX-FILO-docs/Printing/Slicing/"/>
+    </url>
+</urlset>
