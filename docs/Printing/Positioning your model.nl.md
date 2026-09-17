@@ -123,7 +123,9 @@ Om het model uniform te schalen, moet u de witte kubus manipuleren waaruit alle 
 <figcaption>Gebruik uw muis om de centrale witte kubus te selecteren en te slepen. Als u langs de negatieve Y-as (omlaag) sleept, wordt het model kleiner; als u langs de positieve Y-as (omhoog) sleept, wordt het model groter<figcaption>
 </figure>
 
-### Veelgestelde vragen
+---
+
+### FAQ
 
 ??? question "Ik kan mijn model niet verplaatsen"
 

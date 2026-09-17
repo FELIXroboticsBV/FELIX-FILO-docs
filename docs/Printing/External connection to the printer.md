@@ -50,7 +50,7 @@ What follows is a quite confusing and intimidating pop-up. So we will go slowly 
 
 <figure markdown="span">
   ![Welkomstpagina's](../Images/printing/connections/making-connection-pop-up.png){ width="900" }
-<figcaption>Select manage printers option <figcaption>
+<figcaption>Connection credentials <figcaption>
 </figure>
 
 ### Filling in the details
@@ -71,7 +71,9 @@ Fill in the IP that shows on your printer`s network tab
 
 **Port**
 
-Since there can be many devices connected to the printer we need to distinguish between them, that is the port number.
+Since there can be many devices connected to the network we need to distinguish between them, which is the job of the prot number.
+
+Imaging a shipyard, there are many places where different ships can dock. This shipyard is your network and different places where ships can dock are ports.
 
 This should be `3344` but check it on the Network tab of your printer GUI.
 
@@ -79,7 +81,7 @@ This should be `3344` but check it on the Network tab of your printer GUI.
 
 **Path**
 
-Leave it at its defaulat.
+Leave it at its default.
 
 ---
 
@@ -122,7 +124,7 @@ To do that click on the printer you have just added in the left list and on the 
 
 !!! NOTE
 
-    Video shows the API key already filled in that is because application remember`s it however you should not have anything filled in there. If you do, follow the steps below regardless
+    Video shows the API key already filled in. That is because application remember`s it however you should not have anything filled in there. If you do, follow the steps below regardless
 
 You will be redirected to the website of the repetier server. It is unfortunately out of scope to talk about it in more depth so feel free to read more on [this page](https://www.repetier-server.com/manuals/1.4/index.html).
 

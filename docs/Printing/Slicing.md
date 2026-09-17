@@ -57,13 +57,17 @@ It is possible that you will see some foreign object appear on your model. This 
 
 You can also preview how the nozzle of the printer will move on this layer. This can be done by pressing with **left button** onto the little play button on the botton of the screen.
 
-This will show you virtual nozzle which moves "deoposits" material. This way you can double check integrity of your prints if you are`t quite sure why is it failing.
+This will show you virtual nozzle which moves and "deoposits" material. This way you can double check integrity of your prints if you are`t quite sure why is it failing.
 
 <figure markdown="span">
   ![Welcome pages](../Images/printing/print-preview.gif){ width="600" }
   
 <figcaption>Slider on the bottom represents how much work does printer still has to do before the selected layer is finished </figcaption>
 </figure>
+
+---
+
+## FAQ
 
 ??? question "My model is falling through the build plate / floating above it"
 

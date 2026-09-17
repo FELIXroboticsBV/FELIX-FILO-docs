@@ -65,6 +65,10 @@ Hierdoor ziet u een virtuele nozzle die materiaal "aanbrengt". Op deze manier ku
 <figcaption>De schuifregelaar onderaan geeft aan hoeveel werk de printer nog moet verrichten voordat de geselecteerde laag klaar is</figcaption>
 </figure>
 
+---
+
+## FAQ
+
 ??? question "Mijn model valt door het platform heen / zweeft erboven"
 
     Gebruik de optie **Drop to Buildplate** (rechtsklik op het model → *Drop to Buildplate*) om het automatisch gelijk met het platform te laten aansluiten.

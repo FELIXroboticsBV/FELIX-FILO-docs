@@ -38,7 +38,7 @@ U kunt de print direct vanuit de applicatie pauzeren of stoppen.
 
 ---
 
-### Veelgestelde vragen
+### FAQ
 
 ??? question "Ik zie de optie 'Print with Repetier' niet in het exportmenu"
 

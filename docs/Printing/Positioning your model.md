@@ -122,6 +122,8 @@ In order to scale the model uniformly you want to manipulate white cube from whi
 <figcaption>Use your mouse to select the center white cube and drag it. If you drag along negative Y axis (down) the model will scale down if you drag it along positive Y axes (up) the model will scale up <figcaption>
 </figure>
 
+---
+
 ### FAQ
 
 ??? question "I can not move my model"

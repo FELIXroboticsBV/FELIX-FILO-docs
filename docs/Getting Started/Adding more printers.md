@@ -30,7 +30,7 @@ As a next step we have to again choose if we want to add printer from the networ
 
 You are going to be interacting with the list `Add a non-networked printer`. In order to do that click on it. This should show you the list with various printers to choose from.
 
-Depending on the printer you want to add select it. Make sure that you do not select he printer which is already loaded in the application ! If you accidentally do so, no worries, nothing will happen and you will have to repeat those steps again.
+Depending on the printer you want to add select it. Make sure that you do not select a printer which is already loaded in the application ! If you accidentally do so, no worries, nothing will happen and you will have to repeat those steps again.
 
 !!! Note
 
@@ -39,9 +39,9 @@ Depending on the printer you want to add select it. Make sure that you do not se
 Once the printer is selected press `Add` after which you are going to be presented with a list of options.
 
 <figure markdown="span">
-  ![Welcome pages](../Images/getting-started/view-port-with-new-printer.png){ width="600" }
+  ![Welcome pages](../Images/getting-started/list-of-options.png){ width="600" }
   
-<figcaption>Overview of configuring various printers</figcaption>
+<figcaption>Configuration of the printer`s options</figcaption>
 </figure>
 
 We advise you to not change anything and continue with again pressing `Add`.
