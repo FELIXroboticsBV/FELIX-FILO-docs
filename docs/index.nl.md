@@ -12,25 +12,25 @@ De FELIX-FILO wordt aangedreven door de Cura-slicer, dus als u bekend bent met h
 
 ## Inhoudsopgave
 
-### Instalation
+### Installatie
 
-- [Instalation](./Instalation/Instalation.nl.md)
+- [Installatie](./Instalation/Instalation.md)
 
-### Getting started
+### Aan de slag
 
-- [Getting started](./Getting%20Started/Getting%20started.nl.md)
-- [Adding more printers](./Getting%20Started/Adding%20more%20printers.nl.md)
+- [Aan de slag](./Getting%20Started/Getting%20started.md)
+- [Meer printers toevoegen](./Getting%20Started/Adding%20more%20printers.md)
 
-### Printing
+### Printen
 
-- [Positioning your model](./Printing/Positioning%20your%20model.nl.md)
+- [Uw model positioneren](./Printing/Positioning%20your%20model.md)
 
-- [Slicing](./Printing/Slicing.nl.md)
+- [Slicen](./Printing/Slicing.md)
 
-- [Exporting your model](./Printing/Exporting%20your%20g-code.nl.md)
+- [Uw model exporteren](./Printing/Exporting%20your%20g-code.md)
 
-### Connecting to your printer
+### Verbinding maken met uw printer
 
-- [Establishing connection](./Printing/External%20connection%20to%20the%20printer.nl.md)
+- [Verbinding tot stand brengen](./Printing/External%20connection%20to%20the%20printer.md)
 
-- [Starting the print](./Printing/Printing%20from%20the%20application.nl.md)
+- [De print starten](./Printing/Printing%20from%20the%20application.md)
