@@ -30,6 +30,10 @@ copyright: <h3><i><u><a target="_blank" href="https://felixprinters.com/">© 202
 
 theme:
   name: material
+  features:
+    - content.code.copy
+    - content.code.select
+
   logo: assets/logo.png
   palette:
     - scheme: slate
