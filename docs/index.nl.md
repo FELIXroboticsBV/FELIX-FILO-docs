@@ -1,5 +1,9 @@
 # FELIX FILO
 
+<figure markdown="span">
+  ![Welcome pages](./Images/title-image.png){ width="1080" }
+</figure>
+
 !!! tip "Bedankt"
 
     Bedankt dat u voor FELIX Printers heeft gekozen als leverancier van uw 3D-printer.

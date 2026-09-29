@@ -1,5 +1,9 @@
 # FELIX FILO
 
+<figure markdown="span">
+  ![Welcome pages](./Images/title-image.png){ width="1080" }
+</figure>
+
 !!! tip "THANK YOU"
 
     Thank you for choosing FELIX Printers as your 3D printer provider.
